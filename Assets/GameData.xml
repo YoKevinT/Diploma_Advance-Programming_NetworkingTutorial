@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Game_x0020_Data_x0020_Collection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <position>
+    <x>1.86264515E-09</x>
+    <y>1.89574277</y>
+    <z>-3.7252903E-09</z>
+  </position>
+  <rotation>
+    <x>-2.32830671E-10</x>
+    <y>8.003554E-11</y>
+    <z>-6.053597E-09</z>
+    <w>1</w>
+    <eulerAngles>
+      <x>-2.668043E-08</x>
+      <y>9.171398E-09</y>
+      <z>-6.93691163E-07</z>
+    </eulerAngles>
+  </rotation>
+  <Dialogue>
+    <Text>Hello</Text>
+    <Text>World!</Text>
+  </Dialogue>
+</Game_x0020_Data_x0020_Collection>
